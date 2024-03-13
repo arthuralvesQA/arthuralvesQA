@@ -1,6 +1,8 @@
-### Prazer, meu nome é Arthur!👋
+<h1>Prazer, meu nome é Arthur! 😁</h1> 
 
-Sou graduando do curso Análise e Desenvolvimento de Sistemas, pela faculdade VINCIT e também sou Analista de Testes certificado pelo ISTQB, com a certificação CTFL.
+<h3>Aqui estão algumas de minhas qualificações:</h3>
+🐞 Analista de Testes certificado pelo ISTQB®, com a certificação CTFL.<br>
+📚 Graduando do curso Análise e Desenvolvimento de Sistemas, pela faculdade VINCIT
 <!--
 **arthuralvesQA/arthuralvesQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
