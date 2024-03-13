@@ -1,5 +1,6 @@
-### Hi there 👋
+### Prazer, meu nome é Arthur!👋
 
+Sou graduando do curso Análise e Desenvolvimento de Sistemas, pela faculdade VINCIT e também sou Analista de Testes certificado pelo ISTQB, com a certificação CTFL.
 <!--
 **arthuralvesQA/arthuralvesQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
